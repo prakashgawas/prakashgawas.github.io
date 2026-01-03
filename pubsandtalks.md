@@ -15,25 +15,28 @@ tags = ["syntax", "code", "image"]
 ## 2026
 
 ## 2025
-Fix and Optimize approach for Integrated Healthcare Timetabling - [Journées de l'Optimisation 2025/ 2025 Optimization Days (JOPT)](https://symposia.cirrelt.ca/JOPT2025/en/home),
+Fix and Optimize approach for Integrated Healthcare Timetabling - [Journées de l'Optimisation 2025/ 2025 Optimization Days (JOPT)](https://symposia.cirrelt.ca/JOPT2025/en/home),\
 *Montréal, Canada*
-Expert-based Learning for Sequential Decision Making - [Journées de l'Optimisation 2025/ 2025 Optimization Days (JOPT)](https://symposia.cirrelt.ca/JOPT2025/en/home),
+
+Expert-based Learning for Sequential Decision Making - [Journées de l'Optimisation 2025/ 2025 Optimization Days (JOPT)](https://symposia.cirrelt.ca/JOPT2025/en/home),\
 *Montréal, Canada*
-On-Call/Casual Personnel Scheduling - [JOPT](https://symposia.gerad.ca/jopt2022/en) 2022,
+
+On-Call/Casual Personnel Scheduling - [JOPT](https://symposia.gerad.ca/jopt2022/en) 2022,\
 *Montréal, Canada*
 
 ## 2024
-An imitation-based learning approach using DAgger for the Casual Employee Call Timing Problem - [JOPT](https://symposia.gerad.ca/jopt2024/en),
+An imitation-based learning approach using DAgger for the Casual Employee Call Timing Problem - [JOPT](https://symposia.gerad.ca/jopt2024/en),\
 *Montréal, Canada*
 
 An Imitation Learning approach for Personnel Scheduling with flexibility for On-Call Shifts - [The 21st International Conference on the Integration of Constraint Programming, Artificial Intelligence,
-and Operations Research (CPAIOR)](https://sites.google.com/view/cpaior2024),
+and Operations Research (CPAIOR)](https://sites.google.com/view/cpaior2024),\
 *Uppsala, Sweden*
 
-An imitation-based learning approach using DAgger for the Casual Employee Call Timing Problem - [The 18th Learning and Intelligent Optimization Conference (LION18)](https://lion18.org/),
+An imitation-based learning approach using DAgger for the Casual Employee Call Timing Problem - [The 18th Learning and Intelligent Optimization Conference (LION18)](https://lion18.org/),\
 *Ischia, Italy*
 
-
+An imitation-based learning approach using DAgger for the Casual Employee Call Timing Problem - [The 25th International Symposium on Mathematical Programming (ISMP 2024)](https://ismp2024.gerad.ca/),\
+*Montréal, Canada*
 
 ## 2023
 On-Call/Casual Personnel Scheduling - [Journées de l'Optimisation 2023/ 2023 Optimization Days (JOPT)](https://symposia.cirrelt.ca/CORS-JOPT/en) ,
