@@ -26,8 +26,14 @@ On-Call/Casual Personnel Scheduling - [JOPT](https://symposia.gerad.ca/jopt2022/
 An imitation-based learning approach using DAgger for the Casual Employee Call Timing Problem - [JOPT](https://symposia.gerad.ca/jopt2024/en),
 *Montréal, Canada*
 
-On-Call/Casual Personnel Scheduling - [Journées de l'Optimisation 2024/ 2024 Optimization Days (JOPT)](https://symposia.gerad.ca/jopt2022/en) 2022,
-*Montréal, Canada*
+An Imitation Learning approach for Personnel Scheduling with flexibility for On-Call Shifts - [The 21st International Conference on the Integration of Constraint Programming, Artificial Intelligence,
+and Operations Research (CPAIOR)](https://sites.google.com/view/cpaior2024),
+*Uppsala, Sweden*
+
+An imitation-based learning approach using DAgger for the Casual Employee Call Timing Problem - [The 18th Learning and Intelligent Optimization Conference (LION18)](https://lion18.org/),
+*Ischia, Italy*
+
+
 
 ## 2023
 On-Call/Casual Personnel Scheduling - [Journées de l'Optimisation 2023/ 2023 Optimization Days (JOPT)](https://symposia.cirrelt.ca/CORS-JOPT/en) ,
