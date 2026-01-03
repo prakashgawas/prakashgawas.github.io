@@ -3,10 +3,12 @@
 
 ## Hello!
 
-#### I'm *Aurora Rossi*.
+#### I'm *Prakash Gawas*.
 
 
-I'm a Postdoctoral Researcher at the [Polytechnique Montréal](https://www.polymtl.ca/) and [Lamarr Institute](https://lamarr-institute.org/) in the group of [Prof. Dr. Petra Mutzel](https://www.ai.uni-bonn.de/mutzel).
+I'm a Postdoctoral Researcher at the [Polytechnique Montréal](https://www.polymtl.ca/) and under the supervision of [Prof. Dr. Louis-Martin Rousseau](https://www.polymtl.ca/expertises/en/rousseau-louis-martin) and [Prof. Dr. Antoine Legrain](https://www.polymtl.ca/expertises/en/legrain-antoine-0). I also belong to the research groups of [CIRRELT](https://www.cirrelt.ca/) [GERAD](https://www.gerad.ca/) and [HANALOG](https://www.hanalog.ca/).
+
+ [Lamarr Institute](https://lamarr-institute.org/)
 
 
 I completed my PhD at [DS4H Université Côte d’Azur](https://ds4h.univ-cotedazur.eu/) in the [COATI](https://team.inria.fr/coati/) project joint-team between [Inria centre at Université Côte d’Azur](https://www.inria.fr/en/inria-centre-universite-cote-azur) and the [I3S Laboratory](https://www.i3s.unice.fr/en) under the supervision of [David Coudert, DR](http://www-sop.inria.fr/members/David.Coudert/index.shtml). 
