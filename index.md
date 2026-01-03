@@ -19,7 +19,7 @@ Before I received my Master's degree from [IIT Bombay](https://www.iitb.ac.in/) 
 My research focuses on applying machine learning to sequential decision-making in operations research, with applications in scheduling and logistics.
 
 #### Contact
-Github username: [@prakashgawas](https://github.com/prakashgawas)
+Github: [@prakashgawas](https://github.com/prakashgawas)
 
 E-mail: prakash.gawas-2 (at) polymtl.ca 
 
