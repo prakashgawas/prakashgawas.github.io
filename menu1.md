@@ -42,16 +42,16 @@ Supervisors : [Veeraruna Kavitha](https://www.ieor.iitb.ac.in/vkavitha),  [Ashut
 #### **Research Intern** *2020* (MITACS Accelerate){Montreal, Canada}
 - Performed data analysis for an on-demand personnel scheduling platform serving casual employees.
 - Designed and evaluated data-driven operating policies to improve call timing and fill rates.
-*Merinio, Montréal, Canada*
+*[Merinio](https://www.merinio.com/), Montréal, Canada*
 
 #### **Company Coordinator** 
 - Collaborated with a 40+ member team to manage recruitment for 1,600+ students.
 - Streamlined company outreach, communication, and interview logistics.
-*IIT Bombay, Placement Cell, Mumbai, India*
+*[IIT Bombay](https://www.merinio.com/), Placement Cell, Mumbai, India*
 
 
   ## Teaching Experience
 - IE 611 — Introduction to Stochastic Models (Autumn 2016)
 - IE 502 — Probabilistic Models (Spring 2017)
-*IIT Bombay, Placement Cell, Mumbai, India*
+*[IIT Bombay](https://www.iitb.ac.in/), [Placement Cell](https://campus.placements.iitb.ac.in/), Mumbai, India*
 
