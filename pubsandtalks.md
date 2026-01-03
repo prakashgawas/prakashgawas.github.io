@@ -18,10 +18,10 @@ tags = ["syntax", "code", "image"]
 An imitation-based learning approach using DAgger for the Casual Employee Call Timing Problem - [The 18th  INFORMS Computing Society Conference (ICS 2025)](https://sites.google.com/view/ics-2025/home),\
 *Montréal, Canada*
 
-Imitation Learning for Sequential Decision Problems in Operations Research - An Introduction - [Beyond the thesis : Journeys in science](https://www.gerad.ca/en/events/2324),\
+[Imitation Learning for Sequential Decision Problems in Operations Research - An Introduction](https://www.dropbox.com/scl/fi/szqmu2alri90yiomyanlp/IL_for_SDP___Beyond_The_Thesis_2025.pdf?rlkey=cda1uojewj4xz2orxniflxjy2&st=u32e3y60&dl=0) - [Beyond the thesis : Journeys in science](https://www.gerad.ca/en/events/2324),\
 *Montréal, Canada*
 
-Fix and Optimize approach for Integrated Healthcare Timetabling - [Journées de l'Optimisation 2025/ 2025 Optimization Days (JOPT)](https://symposia.cirrelt.ca/JOPT2025/en/home),\
+[Fix and Optimize approach for Integrated Healthcare Timetabling](https://www.dropbox.com/scl/fi/nbvi8dbjp9thqkq1u1wcr/IHTC_2024.pdf?rlkey=zoq8tizrudjnnovfnn6su010v&st=wgk88m05&dl=0) - [Journées de l'Optimisation 2025/ 2025 Optimization Days (JOPT)](https://symposia.cirrelt.ca/JOPT2025/en/home),\
 *Montréal, Canada*
 
 [Expert-based Learning for Sequential Decision Making - The Imitation Game](https://www.dropbox.com/scl/fi/we6dqorajgcro1u5ipd83/ICS2025.pdf?rlkey=7xm111nya5g8dorjy92b68vnu&st=tkr1lowq&dl=0) - [Journées de l'Optimisation 2025/ 2025 Optimization Days (JOPT)](https://symposia.cirrelt.ca/JOPT2025/en/home),\
@@ -41,7 +41,7 @@ An Imitation Learning approach for Personnel Scheduling with flexibility for On-
 and Operations Research (CPAIOR)](https://sites.google.com/view/cpaior2024),\
 *Uppsala, Sweden*
 
-An imitation-based learning approach using DAgger for the Casual Employee Call Timing Problem - [The 18th Learning and Intelligent Optimization Conference (LION18)](https://lion18.org/),\
+[An imitation-based learning approach using DAgger for the Casual Employee Call Timing Problem](https://www.dropbox.com/scl/fi/2ii5w15euupn91211hm8c/LION2024.pdf?rlkey=i6clun3ak1srucyawfc04w5u8&st=jry310kj&dl=0) - [The 18th Learning and Intelligent Optimization Conference (LION18)](https://lion18.org/),\
 *Ischia, Italy*
 
 An imitation-based learning approach using DAgger for the Casual Employee Call Timing Problem - [The 25th International Symposium on Mathematical Programming (ISMP 2024)](https://ismp2024.gerad.ca/),\
