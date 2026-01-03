@@ -15,7 +15,7 @@ I completed my PhD at Polytechnique Montréal under the supervision of [Prof. Dr
 
 
 ~~~
- <img src="croppedcircle-image.jpg"  style="float: right; width:330px;"  />
+ <img src="croppedcircle-image.png"  style="float: right; width:330px;"  />
 ~~~
 
 My research focuses on graph theory and graph-based machine learning, with applications in chemistry and neuroscience.
