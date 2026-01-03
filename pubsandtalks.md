@@ -7,11 +7,15 @@ rss_pubdate = Date(2019, 5, 1)
 
 tags = ["syntax", "code", "image"]
 +++
+
+\toc
+
+
 # Publications
 
 # Talks
 
-\toc
+
 
 ## 2026
 
