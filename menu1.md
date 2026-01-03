@@ -24,67 +24,11 @@ Supervisors: [Prof. Dr. Louis-Martin Rousseau](https://www.polymtl.ca/expertises
 [IEOR curriculum](https://www.ieor.iitb.ac.in/acad/mtech)  \
 
 Thesis: "Risk sensitive Markov Decision Process"  \
-Advisors : [Veeraruna Kavitha](https://natema.github.io/ema-webpage/), [Ashutosh Mahajan](https://scholar.google.com/citations?user=p3fbfPwAAAAJ&hl=en), [Paolo Dai Pra](https://www.di.univr.it/?ent=persona&id=11481)  \
-*University of Verona, Italy*  
-
--  Erasmus, *Université Côte d’Azur, France*
--  Computational algebra course, *University of Trento, Italy* 
+Advisors : [Veeraruna Kavitha](https://www.ieor.iitb.ac.in/vkavitha),  [Ashutosh Mahajan](ieor.iitb.ac.in/amahajan)  \
+*IIT Bombay, India*  
 
 
-#### **Bachelor's degree in Applied Mathematics**  *2017 - 2020*   
-Thesis: "Metodi CFTP applicati a ERGM e confronto con MCMC"  \
-Advisor : [Paolo Dai Pra](https://www.di.univr.it/?ent=persona&id=11481)  \
-*University of Verona, Italy* 
 
-**Notes**:
-* you don't have to specify the `.jl` (see below),
-* you do need to explicitly use print statements or `@show` for things to show, so just leaving a variable at the end like you would in the REPL will show nothing,
-* only Julia code blocks are supported at the moment, there may be a support for scripting languages like `R` or `python` in the future,
-* the way you specify the path is important; see [the docs](https://franklinjl.org/code/#more_on_paths) for more info. If you don't care about how things are structured in your `/assets/` folder, just use `./scriptname.jl`. If you want things to be grouped, use `./group/scriptname.jl`. For more involved uses, see the docs.
+#### **Bachelor's degree in Mechanical Engineering**  *2010 - 2014*   
+*Goa Engineering College, India* 
 
-Lastly, it's important to realise that if you don't change the content of the code, then that code will only be executed _once_ even if you make multiple changes to the text around it.
-
-Here's another example,
-
-```julia:./code/ex2
-for i ∈ 1:5, j ∈ 1:5
-    print(" ", rpad("*"^i,5), lpad("*"^(6-i),5), j==5 ? "\n" : " "^4)
-end
-```
-
-which gives the (utterly useless):
-
-\output{./code/ex2}
-
-note the absence of `.jl`, it's inferred.
-
-You can also hide lines (that will be executed nonetheless):
-
-```julia:./code/ex3
-using Random
-Random.seed!(1) # hide
-@show randn(2)
-```
-
-\output{./code/ex3}
-
-
-## Including scripts
-
-Another approach is to include the content of a script that has already been executed.
-This can be an alternative to the description above if you'd like to only run the code once because it's particularly slow or because it's not Julia code.
-For this you can use the `\input` command specifying which language it should be tagged as:
-
-
-\input{julia}{/_assets/scripts/script1.jl} <!--_-->
-
-
-these scripts can be run in such a way that their output is also saved to file, see `scripts/generate_results.jl` for instance, and you can then also input the results:
-
-\output{/_assets/scripts/script1.jl} <!--_-->
-
-which is convenient if you're presenting code.
-
-**Note**: paths specification matters, see [the docs](https://franklinjl.org/code/#more_on_paths) for details.
-
-Using this approach with the `generate_results.jl` file also makes sure that all the code on your website works and that all results match the code which makes maintenance easier.
