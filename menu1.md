@@ -34,25 +34,25 @@ Advisors : [Veeraruna Kavitha](https://www.ieor.iitb.ac.in/vkavitha),  [Ashutosh
 
 ## Work Experience
 #### **Data Analyst** *2017 - 2019*
-Conducted statistical analyses (trend, regression, reliability, predictive modeling) for fuel-cell systems.
-Developed algorithms for anomaly detection and proactive maintenance.
-Delivered analytical insights bridging engineering and business operations.
+- Conducted statistical analyses (trend, regression, reliability, predictive modeling) for fuel-cell systems.
+- Developed algorithms for anomaly detection and proactive maintenance.
+- Delivered analytical insights bridging engineering and business operations.
 *Bloom Energy, Mumbai, India* 
 
 
 #### **Research Intern** *2020* (MITACS Accelerate){Montreal, Canada}
-Performed data analysis for an on-demand personnel scheduling platform serving casual employees.
-Designed and evaluated data-driven operating policies to improve call timing and fill rates.
+- Performed data analysis for an on-demand personnel scheduling platform serving casual employees.
+- Designed and evaluated data-driven operating policies to improve call timing and fill rates.
 *Merinio, Montréal, Canada*
 
 #### **Company Coordinator** 
-Collaborated with a 40+ member team to manage recruitment for 1,600+ students.
-Streamlined company outreach, communication, and interview logistics.
+- Collaborated with a 40+ member team to manage recruitment for 1,600+ students.
+- Streamlined company outreach, communication, and interview logistics.
 *IIT Bombay, Placement Cell, Mumbai, India*
 
 
   ## Teaching Experience
-IE 611 — Introduction to Stochastic Models (Autumn 2016)
-IE 502 — Probabilistic Models (Spring 2017)
+- IE 611 — Introduction to Stochastic Models (Autumn 2016)
+- IE 502 — Probabilistic Models (Spring 2017)
 *IIT Bombay, Placement Cell, Mumbai, India*
 
