@@ -30,7 +30,6 @@ Supervisors : [Veeraruna Kavitha](https://www.ieor.iitb.ac.in/vkavitha) and  [As
 
 #### **Bachelor's degree in Mechanical Engineering**  *2010 - 2014*   
 *[Goa Engineering College](https://gec.ac.in/) , India*
-
 ## Work Experience
 #### **Data Analyst** *2017 - 2019*
 - Conducted statistical analyses (trend, regression, reliability, predictive modeling) for fuel-cell systems.
@@ -39,7 +38,7 @@ Supervisors : [Veeraruna Kavitha](https://www.ieor.iitb.ac.in/vkavitha) and  [As
 *[Bloom Energy](https://www.bloomenergy.com/), Mumbai, India*
 
 
-#### **Research Intern** *2020* (MITACS Accelerate){Montreal, Canada}
+#### **Research Intern (MITACS Accelerate)** *2020* 
 - Performed data analysis for an on-demand personnel scheduling platform serving casual employees.
 - Designed and evaluated data-driven operating policies to improve call timing and fill rates.
 *[Merinio](https://www.merinio.com/), Montréal, Canada*
