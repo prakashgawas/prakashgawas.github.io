@@ -31,6 +31,7 @@ Supervisors : [Veeraruna Kavitha](https://www.ieor.iitb.ac.in/vkavitha) and  [As
 
 #### **Bachelor's degree in Mechanical Engineering**  *2010 - 2014*   
 *[Goa Engineering College](https://gec.ac.in/) , India*
+
 ## Work Experience
 #### **Data Analyst** *2017 - 2019*
 - Conducted statistical analyses (trend, regression, reliability, predictive modeling) for fuel-cell systems.
@@ -49,8 +50,7 @@ Supervisors : [Veeraruna Kavitha](https://www.ieor.iitb.ac.in/vkavitha) and  [As
 - Streamlined company outreach, communication, and interview logistics.
 *[IIT Bombay](https://www.merinio.com/), [Placement Cell](https://campus.placements.iitb.ac.in/), Mumbai, India*
 
-
-  ## Teaching Experience
+## Teaching Experience
 - IE 611 — Introduction to Stochastic Models (Autumn 2016)
 - IE 502 — Probabilistic Models (Spring 2017)
 *[IIT Bombay](https://www.iitb.ac.in/), Mumbai, India*
