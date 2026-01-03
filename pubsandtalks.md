@@ -24,7 +24,7 @@ Imitation Learning for Sequential Decision Problems in Operations Research - An 
 Fix and Optimize approach for Integrated Healthcare Timetabling - [Journées de l'Optimisation 2025/ 2025 Optimization Days (JOPT)](https://symposia.cirrelt.ca/JOPT2025/en/home),\
 *Montréal, Canada*
 
-Expert-based Learning for Sequential Decision Making - [Journées de l'Optimisation 2025/ 2025 Optimization Days (JOPT)](https://symposia.cirrelt.ca/JOPT2025/en/home),\
+[Expert-based Learning for Sequential Decision Making - The Imitation Game](https://www.dropbox.com/scl/fi/we6dqorajgcro1u5ipd83/ICS2025.pdf?rlkey=7xm111nya5g8dorjy92b68vnu&st=tkr1lowq&dl=0) - [Journées de l'Optimisation 2025/ 2025 Optimization Days (JOPT)](https://symposia.cirrelt.ca/JOPT2025/en/home),\
 *Montréal, Canada*
 
 An imitation-based learning approach using DAgger for the Casual Employee Call Timing Problem - [34th European Conference on Operational Research (EURO 2025)](https://euro2025leeds.uk/),\
