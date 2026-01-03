@@ -44,7 +44,7 @@ Supervisors : [Veeraruna Kavitha](https://www.ieor.iitb.ac.in/vkavitha),  [Ashut
 - Designed and evaluated data-driven operating policies to improve call timing and fill rates.
 *[Merinio](https://www.merinio.com/), Montréal, Canada*
 
-#### **Company Coordinator** 
+#### **Company Coordinator** *2016 - 2017*
 - Collaborated with a 40+ member team to manage recruitment for 1,600+ students.
 - Streamlined company outreach, communication, and interview logistics.
 *[IIT Bombay](https://www.merinio.com/), [Placement Cell](https://campus.placements.iitb.ac.in/), Mumbai, India*
