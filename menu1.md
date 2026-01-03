@@ -14,7 +14,7 @@ tags = ["syntax", "code"]
 
 ## Education
 #### **PhD in Mathematics** *2020 - 2025*
-
+Thesis: "[Notification Timing for On-Demand Personnel Scheduling - Complexity and an Imitation Learning Approach](https://publications.polymtl.ca/66110/)"  \
 Supervisors: [Prof. Dr. Louis-Martin Rousseau](https://www.polymtl.ca/expertises/en/rousseau-louis-martin) and [Prof. Dr. Antoine Legrain](https://www.polymtl.ca/expertises/en/legrain-antoine-0)  \
 [Polytechnique Montréal](https://www.polymtl.ca/), Montréal, Canada
   
@@ -23,7 +23,7 @@ Supervisors: [Prof. Dr. Louis-Martin Rousseau](https://www.polymtl.ca/expertises
 #### **Master's degree in Industrial Engineering and Operations Research**  *2015 - 2017*   
 [IEOR curriculum](https://www.ieor.iitb.ac.in/acad/mtech)  \
 Thesis: "Risk sensitive Markov Decision Process"  \
-Advisors : [Veeraruna Kavitha](https://www.ieor.iitb.ac.in/vkavitha),  [Ashutosh Mahajan](ieor.iitb.ac.in/amahajan)  \
+Supervisors : [Veeraruna Kavitha](https://www.ieor.iitb.ac.in/vkavitha),  [Ashutosh Mahajan](ieor.iitb.ac.in/amahajan)  \
 [IIT Bombay](https://www.iitb.ac.in/), India  
 
 
