@@ -15,9 +15,9 @@ tags = ["syntax", "code", "image"]
 ## 2026
 
 ## 2025
-On-Call/Casual Personnel Scheduling - [Journées de l'Optimisation 2025/ 2025 Optimization Days (JOPT)](https://symposia.gerad.ca/jopt2022/en) 2022,
+Fix and Optimize approach for Integrated Healthcare Timetabling - [Journées de l'Optimisation 2025/ 2025 Optimization Days (JOPT)](https://symposia.cirrelt.ca/JOPT2025/en/home),
 *Montréal, Canada*
-On-Call/Casual Personnel Scheduling - [JOPT](https://symposia.gerad.ca/jopt2022/en) 2022,
+Expert-based Learning for Sequential Decision Making - [Journées de l'Optimisation 2025/ 2025 Optimization Days (JOPT)](https://symposia.cirrelt.ca/JOPT2025/en/home),
 *Montréal, Canada*
 On-Call/Casual Personnel Scheduling - [JOPT](https://symposia.gerad.ca/jopt2022/en) 2022,
 *Montréal, Canada*
