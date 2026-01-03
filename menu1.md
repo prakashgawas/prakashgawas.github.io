@@ -30,5 +30,5 @@ Advisors : [Veeraruna Kavitha](https://www.ieor.iitb.ac.in/vkavitha),  [Ashutosh
 
 
 #### **Bachelor's degree in Mechanical Engineering**  *2010 - 2014*   
-*Goa Engineering College, India* 
+*[Goa Engineering College](https://gec.ac.in/) , India* 
 
