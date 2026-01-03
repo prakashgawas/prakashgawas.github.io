@@ -16,7 +16,7 @@ tags = ["syntax", "code"]
 #### **PhD in Mathematics** *2020 - 2025*
 Thesis: "[Notification Timing for On-Demand Personnel Scheduling - Complexity and an Imitation Learning Approach](https://publications.polymtl.ca/66110/)"  \
 Supervisors: [Prof. Dr. Louis-Martin Rousseau](https://www.polymtl.ca/expertises/en/rousseau-louis-martin) and [Prof. Dr. Antoine Legrain](https://www.polymtl.ca/expertises/en/legrain-antoine-0)  \
-[Polytechnique Montréal](https://www.polymtl.ca/), Montréal, Canada
+*[Polytechnique Montréal](https://www.polymtl.ca/), Montréal, Canada*
   
 
 
@@ -24,19 +24,19 @@ Supervisors: [Prof. Dr. Louis-Martin Rousseau](https://www.polymtl.ca/expertises
 [IEOR curriculum](https://www.ieor.iitb.ac.in/acad/mtech)  \
 Thesis: "Risk sensitive Markov Decision Process"  \
 Supervisors : [Veeraruna Kavitha](https://www.ieor.iitb.ac.in/vkavitha),  [Ashutosh Mahajan](ieor.iitb.ac.in/amahajan)  \
-[IIT Bombay](https://www.iitb.ac.in/), India  
+*[IIT Bombay](https://www.iitb.ac.in/), India* 
 
 
 
 #### **Bachelor's degree in Mechanical Engineering**  *2010 - 2014*   
-[Goa Engineering College](https://gec.ac.in/) , India 
+*[Goa Engineering College](https://gec.ac.in/) , India*
 
 ## Work Experience
 #### **Data Analyst** *2017 - 2019*
 - Conducted statistical analyses (trend, regression, reliability, predictive modeling) for fuel-cell systems.
 - Developed algorithms for anomaly detection and proactive maintenance.
 - Delivered analytical insights bridging engineering and business operations.
-[Bloom Energy](https://www.bloomenergy.com/), Mumbai, India 
+*[Bloom Energy](https://www.bloomenergy.com/), Mumbai, India*
 
 
 #### **Research Intern** *2020* (MITACS Accelerate){Montreal, Canada}
