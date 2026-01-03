@@ -15,7 +15,7 @@ I completed my PhD at Polytechnique Montréal under the supervision of [Prof. Dr
 
 
 ~~~
- <img src="croppedcircle-image.png"  style="float: right; width:330px;"  />
+ <img src="cropped-image.png"  style="float: right; width:330px;"  />
 ~~~
 
 My research focuses on using machine learning for sequential decision making in operations research, with applications in scheduling and logistics.
