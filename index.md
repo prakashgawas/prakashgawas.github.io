@@ -6,7 +6,7 @@
 #### I'm *Prakash Gawas*.
 
 
-I'm a Postdoctoral Researcher at the [Polytechnique Montréal](https://www.polymtl.ca/) and under the supervision of [Prof. Dr. Louis-Martin Rousseau](https://www.polymtl.ca/expertises/en/rousseau-louis-martin) and [Prof. Dr. Antoine Legrain](https://www.polymtl.ca/expertises/en/legrain-antoine-0). I also belong to the research groups of [CIRRELT](https://www.cirrelt.ca/), [GERAD](https://www.gerad.ca/) and [HANALOG](https://www.hanalog.ca/).
+I'm a Postdoctoral Researcher at the [Polytechnique Montréal](https://www.polymtl.ca/) and under the supervision of [Prof. Dr. Louis-Martin Rousseau](https://www.polymtl.ca/expertises/en/rousseau-louis-martin) and [Prof. Dr. Antoine Legrain](https://www.polymtl.ca/expertises/en/legrain-antoine-0). I also belong to the research groups of [CIRRELT](https://www.cirrelt.ca/), [GERAD](https://www.gerad.ca/) and [HANALOG](https://hanalog.ca/).
 
 
 I completed my PhD at Polytechnique Montréal under the supervision of [Prof. Dr. Louis-Martin Rousseau](https://www.polymtl.ca/expertises/en/rousseau-louis-martin) and [Prof. Dr. Antoine Legrain](https://www.polymtl.ca/expertises/en/legrain-antoine-0). 
