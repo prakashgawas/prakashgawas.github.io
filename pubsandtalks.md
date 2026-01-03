@@ -15,7 +15,7 @@ tags = ["syntax", "code", "image"]
 ## 2026
 
 ## 2025
-[Expert-based Learning for Sequential Decision Making - The Imitation Game](https://www.dropbox.com/scl/fi/we6dqorajgcro1u5ipd83/ICS2025.pdf?rlkey=7xm111nya5g8dorjy92b68vnu&st=wcu2u1xm&dl=0) - [The 18th  INFORMS Computing Society Conference (ICS 2025)](https://sites.google.com/view/ics-2025/home),\
+[Expert-based Learning for Sequential Decision Making - The Imitation Game](https://www.dropbox.com/scl/fi/lsx1o48pfctfwajkqy6bw/ICS2025.pdf?rlkey=1pe3m1b8fwwttqbgoxencmnlr&st=6gii750m&dl=0) - [The 18th  INFORMS Computing Society Conference (ICS 2025)](https://sites.google.com/view/ics-2025/home),\
 *Montréal, Canada*
 
 [Imitation Learning for Sequential Decision Problems in Operations Research - An Introduction](https://www.dropbox.com/scl/fi/szqmu2alri90yiomyanlp/IL_for_SDP___Beyond_The_Thesis_2025.pdf?rlkey=cda1uojewj4xz2orxniflxjy2&st=u32e3y60&dl=0) - [Beyond the thesis : Journeys in science](https://www.gerad.ca/en/events/2324),\
@@ -24,7 +24,7 @@ tags = ["syntax", "code", "image"]
 [Fix and Optimize approach for Integrated Healthcare Timetabling](https://www.dropbox.com/scl/fi/nbvi8dbjp9thqkq1u1wcr/IHTC_2024.pdf?rlkey=zoq8tizrudjnnovfnn6su010v&st=wgk88m05&dl=0) - [Journées de l'Optimisation 2025/ 2025 Optimization Days (JOPT)](https://symposia.cirrelt.ca/JOPT2025/en/home),\
 *Montréal, Canada*
 
-[Expert-based Learning for Sequential Decision Making - The Imitation Game](https://www.dropbox.com/scl/fi/we6dqorajgcro1u5ipd83/ICS2025.pdf?rlkey=7xm111nya5g8dorjy92b68vnu&st=tkr1lowq&dl=0) - [Journées de l'Optimisation 2025/ 2025 Optimization Days (JOPT)](https://symposia.cirrelt.ca/JOPT2025/en/home),\
+[Expert-based Learning for Sequential Decision Making - The Imitation Game](https://www.dropbox.com/scl/fi/we6dqorajgcro1u5ipd83/JOPT2025.pdf?rlkey=7xm111nya5g8dorjy92b68vnu&st=hjx33kt3&dl=0) - [Journées de l'Optimisation 2025/ 2025 Optimization Days (JOPT)](https://symposia.cirrelt.ca/JOPT2025/en/home),\
 *Montréal, Canada*
 
 An imitation-based learning approach using DAgger for the Casual Employee Call Timing Problem - [34th European Conference on Operational Research (EURO 2025)](https://euro2025leeds.uk/),\
