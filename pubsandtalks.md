@@ -24,8 +24,11 @@ Fix and Optimize approach for Integrated Healthcare Timetabling - [Journées de 
 Expert-based Learning for Sequential Decision Making - [Journées de l'Optimisation 2025/ 2025 Optimization Days (JOPT)](https://symposia.cirrelt.ca/JOPT2025/en/home),\
 *Montréal, Canada*
 
-34th European Conference on Operational Research - [34th European Conference on Operational Research (EURO 2025)](https://euro2025leeds.uk/),\
+An imitation-based learning approach using DAgger for the Casual Employee Call Timing Problem - [34th European Conference on Operational Research (EURO 2025)](https://euro2025leeds.uk/),\
 *Leeds, United Kingdom*
+
+Life as a PhD student - [Shaping Your Path in Operations Research – Studies, Careers, and Beyond](https://juanseripe.github.io/cors-montreal-student-chapter/en/evenements/2025-11-cirrelt-gerad-lancement.html), [CORS Montreal Student Chapter](https://juanseripe.github.io/cors-montreal-student-chapter/en/),\
+*Montréal, Canada*
 
 ## 2024
 An imitation-based learning approach using DAgger for the Casual Employee Call Timing Problem - [Journées de l'Optimisation 2024/ 2024 Optimization Days (JOPT)](https://symposia.gerad.ca/jopt2024/en),\
