@@ -15,7 +15,7 @@ tags = ["syntax", "code", "image"]
 ## 2026
 
 ## 2025
-An imitation-based learning approach using DAgger for the Casual Employee Call Timing Problem - [The 18th  INFORMS Computing Society Conference (ICS 2025)](https://sites.google.com/view/ics-2025/home),\
+[An imitation-based learning approach using DAgger for the Casual Employee Call Timing Problem](https://www.dropbox.com/scl/fi/we6dqorajgcro1u5ipd83/ICS2025.pdf?rlkey=7xm111nya5g8dorjy92b68vnu&st=wcu2u1xm&dl=0) - [The 18th  INFORMS Computing Society Conference (ICS 2025)](https://sites.google.com/view/ics-2025/home),\
 *Montréal, Canada*
 
 [Imitation Learning for Sequential Decision Problems in Operations Research - An Introduction](https://www.dropbox.com/scl/fi/szqmu2alri90yiomyanlp/IL_for_SDP___Beyond_The_Thesis_2025.pdf?rlkey=cda1uojewj4xz2orxniflxjy2&st=u32e3y60&dl=0) - [Beyond the thesis : Journeys in science](https://www.gerad.ca/en/events/2324),\
