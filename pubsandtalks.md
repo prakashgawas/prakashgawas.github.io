@@ -18,6 +18,9 @@ tags = ["syntax", "code", "image"]
 An imitation-based learning approach using DAgger for the Casual Employee Call Timing Problem - [The 18th  INFORMS Computing Society Conference (ICS 2025)](https://sites.google.com/view/ics-2025/home),\
 *Montréal, Canada*
 
+Imitation Learning for Sequential Decision Problems in Operations Research - An Introduction - [Beyond the thesis : Journeys in science](https://www.gerad.ca/en/events/2324),\
+*Montréal, Canada*
+
 Fix and Optimize approach for Integrated Healthcare Timetabling - [Journées de l'Optimisation 2025/ 2025 Optimization Days (JOPT)](https://symposia.cirrelt.ca/JOPT2025/en/home),\
 *Montréal, Canada*
 
