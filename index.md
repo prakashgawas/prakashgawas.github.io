@@ -15,7 +15,7 @@ I completed my PhD at [DS4H Université Côte d’Azur](https://ds4h.univ-coteda
 
 
 ~~~
- <img src="cropped-image.jpg"  style="float: right; width:330px;"  />
+ <img src="croppedcircle-image.jpg"  style="float: right; width:330px;"  />
 ~~~
 
 My research focuses on graph theory and graph-based machine learning, with applications in chemistry and neuroscience.
