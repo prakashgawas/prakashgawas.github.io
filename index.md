@@ -21,10 +21,10 @@ I completed my PhD at Polytechnique Montréal under the supervision of [Prof. Dr
 My research focuses on graph theory and graph-based machine learning, with applications in chemistry and neuroscience.
 
 #### Contact
-Github username: [@aurorarossi](https://github.com/aurorarossi)
+Github username: [@prakashgawas](https://github.com/prakashgawas)
 
-E-mail: arossi (at) uni-bonn.de 
+E-mail: prakash.gawas-2 (at) polymtl.ca 
 
-Linkedin: [Aurora Rossi](https://www.linkedin.com/in/aurora-rossi-420b5616a/)
+Linkedin: [Prakash Gawas](https://www.linkedin.com/in/prakash-gawas/)
 
-Google Scholar: [Aurora Rossi](https://scholar.google.com/citations?user=3aIZuFkAAAAJ&hl=it)
+<!--Google Scholar: [Aurora Rossi](https://scholar.google.com/citations?user=3aIZuFkAAAAJ&hl=it)-->
