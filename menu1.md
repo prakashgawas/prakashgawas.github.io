@@ -16,15 +16,15 @@ tags = ["syntax", "code"]
 #### **PhD in Mathematics** *2020 - 2025*
 
 Supervisors: [Prof. Dr. Louis-Martin Rousseau](https://www.polymtl.ca/expertises/en/rousseau-louis-martin) and [Prof. Dr. Antoine Legrain](https://www.polymtl.ca/expertises/en/legrain-antoine-0)  \
-*[Polytechnique Montréal](https://www.polymtl.ca/), Montréal, Canada *
+[Polytechnique Montréal](https://www.polymtl.ca/), Montréal, Canada
   
 
 
 #### **Master's degree in Industrial Engineering and Operations Research**  *2015 - 2017*   
-[Applied mathematics curriculum](https://www.corsi.univr.it/?ent=cs&id=389)  \
+[IEOR curriculum](https://www.ieor.iitb.ac.in/acad/mtech)  \
 
-Thesis: "The Hyperbolic Model and the Temporal Small Worldness of Brain Dynamics"  \
-Advisors : [Emanuele Natale](https://natema.github.io/ema-webpage/), [Samuel Deslauriers-Gauthier](https://scholar.google.com/citations?user=p3fbfPwAAAAJ&hl=en), [Paolo Dai Pra](https://www.di.univr.it/?ent=persona&id=11481)  \
+Thesis: "Risk sensitive Markov Decision Process"  \
+Advisors : [Veeraruna Kavitha](https://natema.github.io/ema-webpage/), [Ashutosh Mahajan](https://scholar.google.com/citations?user=p3fbfPwAAAAJ&hl=en), [Paolo Dai Pra](https://www.di.univr.it/?ent=persona&id=11481)  \
 *University of Verona, Italy*  
 
 -  Erasmus, *Université Côte d’Azur, France*
