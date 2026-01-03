@@ -12,6 +12,30 @@ tags = ["syntax", "code", "image"]
 
 \toc
 
-## 2022
+## 2026
+
+## 2025
+On-Call/Casual Personnel Scheduling - [Journées de l'Optimisation 2025/ 2025 Optimization Days (JOPT)](https://symposia.gerad.ca/jopt2022/en) 2022,
+*Montréal, Canada*
 On-Call/Casual Personnel Scheduling - [JOPT](https://symposia.gerad.ca/jopt2022/en) 2022,
 *Montréal, Canada*
+On-Call/Casual Personnel Scheduling - [JOPT](https://symposia.gerad.ca/jopt2022/en) 2022,
+*Montréal, Canada*
+
+## 2024
+An imitation-based learning approach using DAgger for the Casual Employee Call Timing Problem - [JOPT](https://symposia.gerad.ca/jopt2024/en),
+*Montréal, Canada*
+
+On-Call/Casual Personnel Scheduling - [Journées de l'Optimisation 2024/ 2024 Optimization Days (JOPT)](https://symposia.gerad.ca/jopt2022/en) 2022,
+*Montréal, Canada*
+
+## 2023
+On-Call/Casual Personnel Scheduling - [Journées de l'Optimisation 2023/ 2023 Optimization Days (JOPT)](https://symposia.cirrelt.ca/CORS-JOPT/en) ,
+*Montréal, Canada*
+
+## 2022
+On-Call/Casual Personnel Scheduling - [Journées de l'Optimisation 2022/ 2022 Optimization Days (JOPT)](https://symposia.gerad.ca/jopt2022/en),
+*Montréal, Canada*
+
+On-Call/Casual Personnel Scheduling - [2022 CORS/Informs International Conference](https://meetings.informs.org/wordpress/2022international/),
+*Vancouver, Canada*
