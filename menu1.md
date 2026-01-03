@@ -22,22 +22,21 @@ Supervisors: [Prof. Dr. Louis-Martin Rousseau](https://www.polymtl.ca/expertises
 
 #### **Master's degree in Industrial Engineering and Operations Research**  *2015 - 2017*   
 [IEOR curriculum](https://www.ieor.iitb.ac.in/acad/mtech)  \
-
 Thesis: "Risk sensitive Markov Decision Process"  \
 Advisors : [Veeraruna Kavitha](https://www.ieor.iitb.ac.in/vkavitha),  [Ashutosh Mahajan](ieor.iitb.ac.in/amahajan)  \
-*IIT Bombay, India*  
+[IIT Bombay](https://www.iitb.ac.in/), India  
 
 
 
 #### **Bachelor's degree in Mechanical Engineering**  *2010 - 2014*   
-*[Goa Engineering College](https://gec.ac.in/) , India* 
+[Goa Engineering College](https://gec.ac.in/) , India 
 
 ## Work Experience
 #### **Data Analyst** *2017 - 2019*
 - Conducted statistical analyses (trend, regression, reliability, predictive modeling) for fuel-cell systems.
 - Developed algorithms for anomaly detection and proactive maintenance.
 - Delivered analytical insights bridging engineering and business operations.
-*Bloom Energy, Mumbai, India* 
+[Bloom Energy](https://www.bloomenergy.com/), Mumbai, India 
 
 
 #### **Research Intern** *2020* (MITACS Accelerate){Montreal, Canada}
