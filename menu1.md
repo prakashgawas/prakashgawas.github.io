@@ -8,29 +8,33 @@ tags = ["syntax", "code"]
 +++
 
 
-# Working with code blocks
+# Curriculum
 
 \toc
 
-## Live evaluation of code blocks
+## Education
+#### **PhD in Mathematics** *2020 - 2025*
 
-If you would like to show code as well as what the code outputs, you only need to specify where the script corresponding to the code block will be saved.
+Supervisors: [Prof. Dr. Louis-Martin Rousseau](https://www.polymtl.ca/expertises/en/rousseau-louis-martin) and [Prof. Dr. Antoine Legrain](https://www.polymtl.ca/expertises/en/legrain-antoine-0)  \
+*[Polytechnique Montréal](https://www.polymtl.ca/), Montréal, Canada *
+  
 
-Indeed, what happens is that the code block gets saved as a script which then gets executed.
-This also allows for that block to not be re-executed every time you change something _else_ on the page.
 
-Here's a simple example (change values in `a` to see the results being live updated):
+#### **Master's degree in Industrial Engineering and Operations Research**  *2015 - 2017*   
+[Applied mathematics curriculum](https://www.corsi.univr.it/?ent=cs&id=389)  \
 
-```julia:./exdot.jl
-using LinearAlgebra
-a = [1, 2, 3, 3, 4, 5, 2, 2]
-@show dot(a, a)
-println(dot(a, a))
-```
+Thesis: "The Hyperbolic Model and the Temporal Small Worldness of Brain Dynamics"  \
+Advisors : [Emanuele Natale](https://natema.github.io/ema-webpage/), [Samuel Deslauriers-Gauthier](https://scholar.google.com/citations?user=p3fbfPwAAAAJ&hl=en), [Paolo Dai Pra](https://www.di.univr.it/?ent=persona&id=11481)  \
+*University of Verona, Italy*  
 
-You can now show what this would look like:
+-  Erasmus, *Université Côte d’Azur, France*
+-  Computational algebra course, *University of Trento, Italy* 
 
-\output{./exdot.jl}
+
+#### **Bachelor's degree in Applied Mathematics**  *2017 - 2020*   
+Thesis: "Metodi CFTP applicati a ERGM e confronto con MCMC"  \
+Advisor : [Paolo Dai Pra](https://www.di.univr.it/?ent=persona&id=11481)  \
+*University of Verona, Italy* 
 
 **Notes**:
 * you don't have to specify the `.jl` (see below),
