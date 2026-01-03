@@ -47,11 +47,11 @@ Supervisors : [Veeraruna Kavitha](https://www.ieor.iitb.ac.in/vkavitha),  [Ashut
 #### **Company Coordinator** 
 - Collaborated with a 40+ member team to manage recruitment for 1,600+ students.
 - Streamlined company outreach, communication, and interview logistics.
-*[IIT Bombay](https://www.merinio.com/), Placement Cell, Mumbai, India*
+*[IIT Bombay](https://www.merinio.com/), [Placement Cell](https://campus.placements.iitb.ac.in/), Mumbai, India*
 
 
   ## Teaching Experience
 - IE 611 — Introduction to Stochastic Models (Autumn 2016)
 - IE 502 — Probabilistic Models (Spring 2017)
-*[IIT Bombay](https://www.iitb.ac.in/), [Placement Cell](https://campus.placements.iitb.ac.in/), Mumbai, India*
+*[IIT Bombay](https://www.iitb.ac.in/), Mumbai, India*
 
