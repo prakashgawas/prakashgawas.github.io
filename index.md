@@ -26,3 +26,6 @@ E-mail: prakash.gawas-2 (at) polymtl.ca
 Linkedin: [Prakash Gawas](https://www.linkedin.com/in/prakash-gawas/)
 
 <!--Google Scholar: [Aurora Rossi](https://scholar.google.com/citations?user=3aIZuFkAAAAJ&hl=it)-->
+
+### Fun fact
+I work on ML for sequential decision-making in OR, but still rely on heuristics for everyday life.
