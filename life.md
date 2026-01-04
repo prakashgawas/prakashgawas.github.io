@@ -17,7 +17,7 @@ title = "Life"
 
 ### Hobbies & Interests
 
-Outside of research, I enjoy cooking and firmly believe I make a good butter chicken. Exploring the outdoors through hiking and trekking. 
+Outside of research, I enjoy cooking and firmly believe I make a good butter chicken. Exploring the outdoors through hiking and trekking. You can also find occasional travel photos on [Instagram]https://www.instagram.com/prakash_gawas009/).
 I also like running, which helps me reset between long research sessions. 
 When it comes to sports, I am a football fan and closely follow Arsenal. I also enjoy playing squash, badminton, and table tennis, and I am a football enthusiast and an Arsenal supporter.
 
@@ -40,5 +40,5 @@ Some places on my travel wish list include:
 
 If you happen to be in any of these places, I’d be happy to accept an invitation.
 
-###  📸 Instagram (travel & life):
-[@prakash_gawas009](https://www.instagram.com/prakash_gawas009/)
+
+
