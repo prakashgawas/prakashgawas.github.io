@@ -24,7 +24,7 @@ Defence: 16 May 2025 ([slides](https://www.dropbox.com/scl/fi/xboo58v6xb1f6orsx6
 #### **Master's degree in Industrial Engineering and Operations Research**  *2015 - 2017*   
 [IEOR curriculum](https://www.ieor.iitb.ac.in/acad/mtech)  \
 Thesis: "Risk sensitive Markov Decision Process"  \
-Supervisors : [Veeraruna Kavitha](https://www.ieor.iitb.ac.in/vkavitha) and  [Ashutosh Mahajan](ieor.iitb.ac.in/amahajan)  \
+Supervisors : [Prof. Dr. Veeraruna Kavitha](https://www.ieor.iitb.ac.in/vkavitha) and  [Prof. Dr. Ashutosh Mahajan](ieor.iitb.ac.in/amahajan)  \
 *[IIT Bombay](https://www.iitb.ac.in/), India* 
 
 
