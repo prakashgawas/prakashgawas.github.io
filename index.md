@@ -23,7 +23,7 @@ Github: [@prakashgawas](https://github.com/prakashgawas)
 
 E-mail: prakash.gawas-2 (at) polymtl.ca 
 
-Linkedin: [Prakash Gawas](https://www.linkedin.com/in/prakash-gawas/)
+LinkedIn: [Prakash Gawas](https://www.linkedin.com/in/prakash-gawas/)
 
 <!--Google Scholar: [Aurora Rossi](https://scholar.google.com/citations?user=3aIZuFkAAAAJ&hl=it)-->
 
