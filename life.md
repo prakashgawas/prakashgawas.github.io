@@ -35,4 +35,7 @@ Some places on my travel wish list include:
 - 🇲🇦 Morocco  
 - 🇩🇿 Algeria   
 - 🇹🇷 Turkey
-- 🇮🇳 Ladakh  
+- 🇮🇳 Ladakh
+
+If you happen to be in any of these places, I’d be happy to accept an invitation.
+
