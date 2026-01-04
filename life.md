@@ -22,3 +22,17 @@ I also like running, which helps me reset between long research sessions.
 When it comes to sports, I am a football fan and closely follow Arsenal.
 
 
+### Places I’d Love to Visit
+I enjoy travel that combines nature, culture, and history.  
+Some places on my travel wish list include:
+
+- 🇫🇴 Faroe Islands  
+- 🇳🇿 New Zealand  
+- 🇮🇸 Iceland  
+- 🇨🇴 Colombia  
+- 🇺🇾 Uruguay  
+- 🇨🇱 Chile  
+- 🇲🇦 Morocco  
+- 🇩🇿 Algeria   
+- 🇹🇷 Turkey
+- 🇮🇳 Ladakh  
