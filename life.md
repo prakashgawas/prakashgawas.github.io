@@ -19,7 +19,7 @@ title = "Life"
 
 Outside of research, I enjoy cooking and firmly believe I make a good butter chicken. Exploring the outdoors through hiking and trekking. 
 I also like running, which helps me reset between long research sessions. 
-When it comes to sports, I am a football fan and closely follow Arsenal.
+When it comes to sports, I am a football fan and closely follow Arsenal. I also enjoy playing squash, badminton, and table tennis, and I am a football enthusiast and an Arsenal supporter.
 
 
 ### Places I’d Love to Visit
