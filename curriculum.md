@@ -16,7 +16,7 @@ tags = ["syntax", "code"]
 #### **PhD in Mathematics** *2020 - 2025*
 Thesis: "[Notification Timing for On-Demand Personnel Scheduling - Complexity and an Imitation Learning Approach](https://publications.polymtl.ca/66110/)"  \
 Supervisors: [Prof. Dr. Louis-Martin Rousseau](https://www.polymtl.ca/expertises/en/rousseau-louis-martin) and [Prof. Dr. Antoine Legrain](https://www.polymtl.ca/expertises/en/legrain-antoine-0)  \
-Defence: 16 May 2025 ([slides](https://www.dropbox.com/scl/fi/xboo58v6xb1f6orsx6ads/Final_PHD.pdf?rlkey=1swjnf4bqe2qamuheaqvagwd8&st=uh71afv5&dl=0))\
+Defence: 16 May 2025 ([slides](https://www.dropbox.com/scl/fi/xboo58v6xb1f6orsx6ads/Final_PHD.pdf?rlkey=1swjnf4bqe2qamuheaqvagwd8&st=uh71afv5&dl=0), [photos](https://photos.app.goo.gl/2jz2bHvYujgWSsgU6))\
 *[Polytechnique Montréal](https://www.polymtl.ca/), Montréal, Canada*
   
 
