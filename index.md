@@ -21,7 +21,7 @@ My research focuses on applying machine learning to sequential decision-making i
 #### Contact
 Github: [@prakashgawas](https://github.com/prakashgawas)
 
-E-mail: prakash.gawas-2 (at) polymtl.ca 
+E-mail: <prakash.gawas-2@polymtl.ca>
 
 LinkedIn: [Prakash Gawas](https://www.linkedin.com/in/prakash-gawas/)
 
