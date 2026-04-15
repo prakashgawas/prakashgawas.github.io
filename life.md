@@ -8,6 +8,10 @@ title = "Life"
 
 - [Checkpoints in a PhD in Applied Mathematics](https://www.dropbox.com/scl/fi/xxzdwai2acokixbdicl67/Checkpoints.pdf?rlkey=e02ezqwbgakoto1239n23r6dd&st=qxy3os1l&dl=0)
 
+- [Life as PhD Student](https://www.thegoan.net/global-goenkar/life-for-goan-phd-student-in-montr%C3%A9al-has-been-more-than-just-research-1/145665.html)
+
+- [My Research Journey](https://www.thegoan.net/global-goenkar/from-student-to-researcher-journey-of-goan-in-montréal-part-2/146026.html)
+
 ## Facts About Me
 
 - 🎨 **Favorite color:** Yellow
